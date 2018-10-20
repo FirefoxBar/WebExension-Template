@@ -1,0 +1,6 @@
+/node_modules
+/*.log
+/dist
+/dist-pack
+/build-temp
+/encrypt
